@@ -10,3 +10,6 @@ Added the text in new branch 'new-branch'
 
 
 Resolving the local conflict
+Solving the conflict
+
+Resolving the conflict(text in the browser)
